@@ -6,6 +6,8 @@ So far, the prompts were tested in Google LLMs, on Google AI Studio. Feel free t
 
 # Use cases
 
+**Please, make sure you copy plain markdown, rather than formatted text!**
+
 ## Sugest a bug fix
 
 Steps:
